@@ -1,0 +1,35 @@
+body {
+    background: url(whiteTEX.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
+
+.timer {
+    float: left;
+    width: 10%;
+    text-align: center; 
+}
+
+.timer button {
+    background-color: #E8CBAE;
+    width: 70px;
+    border-radius: 12px;
+    color: black;
+}
+
+p {
+    color: black;
+    border: 3px black solid;
+    padding: 5px;
+
+}
+
+.clearfix {
+    clear: both;
+}
+
+button {
+    width: 30%;
+    border-radius: 10px;
+    background-color: #E8CBAE;
+}
